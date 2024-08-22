@@ -2,8 +2,8 @@
 
 Estou desenvolvendo scratch e javascript, além do alura
 
-![]([)](https://media1.tenor.com/m/z8HjjEOM3g4AAAAd/adogsmile.gif).
-Here are some ideas to get you started:
+![](https://media1.tenor.com/m/z8HjjEOM3g4AAAAd/adogsmile.gif).
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
