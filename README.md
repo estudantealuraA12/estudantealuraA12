@@ -1,8 +1,8 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🐪🥇
 
-<!--
-**estudantealuraA12/estudantealuraA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scratch e javascript, além do alura
 
+![]([)](https://media1.tenor.com/m/z8HjjEOM3g4AAAAd/adogsmile.gif).
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
